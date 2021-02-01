@@ -19,3 +19,5 @@ cmd as local admin.
 `assign letter=X`
 
 `exit`
+
+...

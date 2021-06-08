@@ -21,5 +21,3 @@ cmd as local admin
 `exit`
 
 ...
-
-Unmount Disk Drive 

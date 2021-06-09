@@ -1,4 +1,4 @@
-cmd as local admin
+open cmd as local admin
 
 ...
 
@@ -21,3 +21,4 @@ cmd as local admin
 `exit`
 
 ...
+

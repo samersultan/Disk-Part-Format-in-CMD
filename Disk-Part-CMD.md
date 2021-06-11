@@ -1,4 +1,4 @@
-open cmd as local admin
+cmd as local admin
 
 ...
 
